@@ -1,4 +1,3 @@
-require '../source/selection_sort.rb'
 require '../source/node.rb'
 require '../source/edge.rb'
 require '../source/directed_edge.rb'
